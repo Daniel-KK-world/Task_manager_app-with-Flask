@@ -1,6 +1,9 @@
-![image of working base](.images\TaskSmash screenshot.PNG)
+![Task Manager Screenshot](./images/screenshot.PNG)
+
+
 
 TaskSmash TaskSmash is a straightforward task management web application built with Flask. It provides users with the
+
 ability to create, edit, and delete tasks, making it easy to manage daily activities. This project is designed to demonstrate basic CRUD operations, SQLite integration, and responsive design. Great project to do as an introduction to Flask
 
 Features Create Tasks: Add new tasks quickly and easily. Edit Tasks: Modify existing tasks as needed. Delete Tasks: Remove tasks that are no longer needed. Responsive Design: Works well on both desktop and mobile devices. Technologies Used Flask: A lightweight web framework for Python. SQLite: A self-contained, high-reliability database engine. HTML/CSS: For structuring and styling the web pages. Python: The programming language used for the backend. Installation Clone the repository: bash
