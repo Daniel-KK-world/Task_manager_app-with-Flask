@@ -9,7 +9,7 @@ ability to create, edit, and delete tasks, making it easy to manage daily activi
 
 Features Create Tasks: Add new tasks quickly and easily. Edit Tasks: Modify existing tasks as needed. Delete Tasks: Remove tasks that are no longer needed. Responsive Design: Works well on both desktop and mobile devices. Technologies Used Flask: A lightweight web framework for Python. SQLite: A self-contained, high-reliability database engine. HTML/CSS: For structuring and styling the web pages. Python: The programming language used for the backend. Installation Clone the repository: bash
 
-git clone https://github.com/yourusername/tasksmash.git Navigate to the project directory: bash
+git clone https://github.com/Daniel-KK-world/Task_manager_app-with-Flask.git Navigate to the project directory: bash
 
 cd tasksmash Install the dependencies: bash
 
