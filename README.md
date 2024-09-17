@@ -1,4 +1,5 @@
-![Task Manager Screenshot](./images/screenshot.PNG)
+
+![TaskSmash screenshot](https://github.com/user-attachments/assets/e6b67357-d617-4b53-80ac-ab6c1f0e4e5d)
 
 
 
